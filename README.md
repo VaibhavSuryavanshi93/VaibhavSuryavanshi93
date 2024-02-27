@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full-Stack Web-development
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on web-projects
-- 📫 How to reach me ...
+- 📫 You can reach me on 
   <div id="badges">
   <a href="https://www.linkedin.com/in/vaibhav-suryavanshi-52784b253/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
