@@ -1,4 +1,4 @@
-![Hello logo]<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=header"/>
 
 - 👋 Hi, I’m Vaibhav Suryavanshi
 - 👀 I’m interested in Full-Stack Web-development
