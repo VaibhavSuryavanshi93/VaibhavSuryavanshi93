@@ -1,4 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=119&color=gradient&text=Hello%20from%20Vaibhav!&textBg=false&animation=twinkling&fontSize=42&fontAlign=50&fontAlignY=32"/>
+
 
 - 👋 Hi, I’m Vaibhav Suryavanshi
 - 👀 I’m interested in Full-Stack Web-development
@@ -41,6 +42,8 @@
 ## 🛠 Tools I Used
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,netlify,vercel,git,gitlab&theme=light)]()
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient,100:fa50e3&height=120&section=footer"/>
 
 <!---
 VaibhavSuryavanshi93/VaibhavSuryavanshi93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
