@@ -43,7 +43,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,mysql,netlify,vercel,git,gitlab&theme=light)]()
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient,100:fa50e3&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 <!---
 VaibhavSuryavanshi93/VaibhavSuryavanshi93 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
